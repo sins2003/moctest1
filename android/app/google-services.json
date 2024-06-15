@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "13383654201",
+    "project_id": "moctest-41609",
+    "storage_bucket": "moctest-41609.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13383654201:android:5ce030531f5dbab2c926e8",
+        "android_client_info": {
+          "package_name": "com.example.moctest1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkjfm2bAzRRzuGmzkBHtvK1TgqDHjkF_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
