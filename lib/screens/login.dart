@@ -38,10 +38,10 @@ class _loginpageState extends State<loginpage> {
                 SizedBox(height: 20,),
                 Center(
                   child: Text(
-                    "Login to Acive eCommerce",
+                    "Login to Active eCommerce",
                     style: TextStyle(
                         fontWeight: FontWeight.w500,
-                        fontSize: 20,
+                        fontSize: 30,
                         color: Colors.red),
                   ),
                 ),
